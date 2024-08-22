@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahdelisi
 - 👀 I’m interested in machine learning, AI, business analytics, and logistics. 
-- 🌱 I’m currently learning python, and Tableau and will soon learn R and SQL.
+- 🌱 I’m currently learning python, Tableau, R and SQL.
 - 💞️ I’m looking to collaborate on python in general to improve my skills.
 - 📫 I can be reached at noahdelisi@gmail.com
 
